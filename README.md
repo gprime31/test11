@@ -1,2 +1,3 @@
 # test11
-<a href="https://attacker.com" id="link" target="_blank" onmouseover="window.name='customName';">hello</a>
+<a href="#" onclick="document.title='Your Window Title'">Click here to set window title</a>
+
