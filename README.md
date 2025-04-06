@@ -2,5 +2,4 @@
 
 
 
-[Click here](javascript:name)
 
