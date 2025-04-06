@@ -1,3 +1,3 @@
 # test11
 test11
-let window.name = 'ass'
+<script>var window.name = 'ass'</script>
