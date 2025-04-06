@@ -1,3 +1,4 @@
 # test11
 test11
-<script>var window.name = 'ass'</script>
+<script  window.name = 'ass'</script>
+<a href="#" autofocus onfocus="alert(1)" name="xss">
