@@ -1,3 +1,3 @@
 # test11
-<a href="#" onclick="document.title='<img/src=x onerror=alert(origin)>'">Submit</a>
+<a href="#" onclick="window.name='<img/src=x onerror=alert(origin)>'">Submit</a>
 
